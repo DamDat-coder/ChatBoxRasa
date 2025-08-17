@@ -12,8 +12,8 @@ logs/
 *.log
 
 # Bỏ thư mục ảo (virtual environment)
-venv/
-env/
+venv*/
+env*/
 .venv/
 
 # Bỏ các file hệ thống
